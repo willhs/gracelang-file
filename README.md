@@ -3,7 +3,7 @@
 Adds basic file system functionality for the 'hopper' fork of the Grace programming language such as reading the contents of a file, writing to a new or already existing file, and appending to a file.
 
 
-Licensing
+##Licensing
 Copyright (C) 2014 Will Hardwick-Smith
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
