@@ -1,18 +1,10 @@
- timer.js
-Timer functions for the Hopper interpreter.
+file.js
 
-There are two methods:
+Adds basic file system functionality for the 'hopper' fork of the Grace programming language such as reading the contents of a file, writing to a new or already existing file, and appending to a file.
 
-after(time : Number) do(action : Action) -> Timer
-Execute the given action after the given number of milliseconds have passed.
-
-every(time : Number) do(action : Action) -> Timer
-Execute the given action every time the given number of milliseconds have passed.
-
-A Timer object has a single method stop which cancels the timer.
 
 Licensing
-Copyright (C) 2014 Elizabeth Kim
+Copyright (C) 2014 Will Hardwick-Smith
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
