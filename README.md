@@ -1,4 +1,4 @@
-file.js
+#file.js
 
 Adds basic file system functionality for the 'hopper' fork of the Grace programming language such as reading the contents of a file, writing to a new or already existing file, and appending to a file.
 
