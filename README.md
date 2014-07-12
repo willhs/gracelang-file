@@ -1,6 +1,6 @@
 #file.js
 
-Adds basic file system functionality for the 'hopper' fork of the Grace programming language (https://github.com/zmthy/hopper). Addds functionality for reading the contents of a file, writing to a new or already existing file, and appending to a file.
+Adds basic file system functionality for the 'hopper' fork (https://github.com/zmthy/hopper) of the Grace programming language https://github.com/gracelang/minigrace. This work contains functionality for reading the contents of a file, writing to a new or already existing file, and appending to a file.
 
 
 ##Licensing
